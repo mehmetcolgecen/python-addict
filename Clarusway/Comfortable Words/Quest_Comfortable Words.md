@@ -5,9 +5,13 @@ The word will always be a string consisting of only letters from a to z.
 Write a program which returns True if it's a comfortable word or False otherwise.
 
 Examples
-Given      word	   Desired Output (explanation)
-tester	   False   (uses only left-hand fingers)*
-polly	   False   (uses only right-hand fingers)*
-clarusway  True    (uses both hand fingers)
 
-*Note : Do a quick research on ten-fingers keyboard usage. (*) the explanation doesn't need to be in the output.
+Given word------Desired Output (explanation)
+
+tester----------False   (uses only left-hand fingers)
+
+polly-----------False   (uses only right-hand fingers)
+
+clarusway-------True    (uses both hand fingers)
+
+Note : Do a quick research on ten-fingers keyboard usage. 
